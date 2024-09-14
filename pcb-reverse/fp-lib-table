@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "tl866-tsop-mrom")(type "KiCad")(uri "${KIPRJMOD}/../tl866-tsop-mrom.pretty")(options "")(descr ""))
+)
